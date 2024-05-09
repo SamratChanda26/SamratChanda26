@@ -1,4 +1,4 @@
-![logo](https://github.com/SamratChanda26/SamratChanda26/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/SamratChanda26/SamratChanda26/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Samrat Chanda</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
